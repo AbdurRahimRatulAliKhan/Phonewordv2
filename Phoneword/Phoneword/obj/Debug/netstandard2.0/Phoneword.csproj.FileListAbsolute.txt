@@ -1,0 +1,15 @@
+C:\Users\Ratul Ali\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+C:\Users\Ratul Ali\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+C:\Users\Ratul Ali\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\ref\Phoneword.dll
+C:\Users\Ratul Ali\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+C:\Users\Ratul Ali\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.AssemblyReference.cache
+C:\Users\Ratul Ali\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ratul Ali\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ratul Ali\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ratul Ali\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+C:\Users\Ratul Ali\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+C:\Users\Ratul Ali\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+C:\Users\Ratul Ali\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ratul Ali\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+C:\Users\Ratul Ali\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\ref\Phoneword.dll
+C:\Users\Ratul Ali\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
